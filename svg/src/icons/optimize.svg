@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="optimize.svg">
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path d="m 16,2 -7,4 4,7 7,-4 z m 4,7 v 3 h 3 5 V 4 h -8 z m 3,3 -4,7 7,4 4,-7 z m -7.800781,-7.1992188 2,3.5 -3.5,1.9999998 -2,-3.4999998 z M 22,6 h 4 v 4 H 22 Z M 2,10 v 20 h 20 v -8 h -6 v -6 h -6 v -6 z m 2,2 h 4 v 4 H 4 Z m 19.800781,2.800781 3.5,2 -2,3.5 -3.5,-2 z M 4,18 h 4 v 4 H 4 Z m 6,0 h 4 v 4 h -4 z m -6,6 h 4 v 4 H 4 Z m 6,0 h 4 v 4 h -4 z m 6,0 h 4 v 4 h -4 z" id="p" inkscape:connector-curvature="0" />
+</svg>

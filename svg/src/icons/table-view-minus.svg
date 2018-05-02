@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="table-view-minus.svg">
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path d="M 12,2 C 10.428963,2.00246 8.9426212,2.7431677 8,4 H 6 V 6 H 7.0996094 C 7.0309394,6.328942 7.001464,6.663969 7,7 c 0,2.761424 2.2385763,5 5,5 2.761424,0 5,-2.238576 5,-5 0,-0.552285 0.447715,-1 1,-1 0.552285,0 1,0.447715 1,1 0,2.761424 2.238576,5 5,5 2.761424,0 5,-2.238576 5,-5 C 28.999822,6.664101 28.96775,6.329076 28.90039,6 H 30 V 4 H 28 C 27.057379,2.7431676 25.571037,2.002456 24,2 22.211967,2.0031295 20.589043,2.9491024 19.699219,4.5 19.205097,4.16721 18.595739,4.000789 18,4 17.40513,4.000599 16.79457,4.168272 16.300781,4.5 15.410111,2.9492504 13.788327,2.0020295 12,2 Z m 0,2 c 1.656854,0 3,1.343146 3,3 0,1.656854 -1.343146,3 -3,3 C 10.343146,10 9,8.656854 9,7 9,5.343146 10.343146,4 12,4 Z m 12,0 c 1.656854,0 3,1.343146 3,3 0,1.656854 -1.343146,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 z M 2,8 V 30 H 17.462891 C 17.051562,29.376741 16.718956,28.704968 16.472656,28 H 4 V 14 H 8 C 5.7575436,12.768132 4.3235541,10.537996 4,8 Z m 28,4.267578 C 29.393129,12.96409 28.806924,13.550227 28,14 v 2.5 c 0.705062,0.246915 1.376839,0.587992 2,1 z m -11.998047,0.01172 C 17.392354,12.972152 16.808094,13.554306 16,14 h 4 C 19.186338,13.555807 18.616226,12.973575 18.001953,12.279297 Z M 6,16 v 4 h 4 v -4 z m 6,0 v 4 h 5.5 c 0.166193,-0.250936 0.309644,-0.466862 0.5,-0.7 V 16 Z m 8,0 v 1.5 c 1.237459,-0.81928 2.622645,-1.358772 4.1,-1.5 z m 5,2 c -3.865993,0 -7,3.134007 -7,7 0,3.865993 3.134007,7 7,7 3.865993,0 7,-3.134007 7,-7 0,-3.865993 -3.134007,-7 -7,-7 z M 6,22 v 4 h 4 v -4 z m 6,0 v 4 h 4.015625 C 16,25 16.094059,23.155474 16.5,22 Z m 8,2 h 10 v 2 H 20 Z" id="p" inkscape:connector-curvature="0" />
+<metadata id="metadata4043">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:title></dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="routine-run.svg">
+ <defs id="defs" />
+ <sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10">
+  <inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+  <sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+  <sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+ </sodipodi:namedview>
+ <path d="M 21,4 20.599609,6.1992188 18.900391,6.9003906 17,5.5996094 15.599609,7 16.900391,8.9003906 16.199219,10.599609 14,11 v 2 l 2.199219,0.400391 0.701172,1.699218 L 15.599609,17 17,18.400391 18.900391,17.099609 20,17.552734 V 16 h 4 L 26.595703,18.123047 27,18.400391 28.451172,17.050781 27.099609,15.099609 27.800781,13.400391 30,13 V 11 L 27.800781,10.599609 27.099609,8.9003906 28.400391,7 27,5.5996094 25.099609,6.9003906 23.400391,6.1992188 23,4 Z m 1,5 c 1.656853,0 3,1.343146 3,3 0,1.656854 -1.343147,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 z M 9,12 8.5996094,14.199219 6.9003906,14.900391 5,13.599609 3.5996094,15 4.9003906,16.900391 4.1992188,18.599609 2,19 v 2 L 4.1992188,21.400391 4.9003906,23.099609 3.5996094,25 5,26.400391 6.9003906,25.099609 8.5996094,25.800781 9,28 h 2 L 11.400391,25.800781 13.099609,25.099609 15,26.400391 16.400391,25 15.099609,23.099609 15.800781,21.400391 18,21 V 19 L 15.800781,18.599609 15.099609,16.900391 16.400391,15 15,13.599609 13.099609,14.900391 11.400391,14.199219 11,12 Z m 1,5 c 1.656856,0 3,1.343146 3,3 0,1.656854 -1.343144,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 z m 12,2 v 12 l 9,-6 z" id="p" inkscape:connector-curvature="0" />
+</svg>

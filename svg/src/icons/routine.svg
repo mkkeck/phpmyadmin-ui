@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="routine.svg">
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path inkscape:connector-curvature="0" id="p" d="M 21,4.0000003 20.599609,6.2 18.90039,6.900391 17,5.5996097 15.599609,7 16.900391,8.900391 16.2,10.59961 14,11 v 2 l 2.2,0.400391 0.700391,1.699218 L 15.599609,17 17,18.400391 18.90039,17.099609 20.599608,17.8 20.999999,20 h 2 L 23.40039,17.8 25.099608,17.099609 27,18.400391 28.45039,17.050196 27.099999,15.1 l 0.7,-1.699609 2.2,-0.400391 v -2 l -2.2,-0.40039 L 27.099608,8.900391 28.40039,7 27,5.5996097 25.099608,6.900391 23.40039,6.2 23,4.0000003 Z M 22,9 c 1.656853,0 3,1.343146 3,3 0,1.656854 -1.343147,3 -3,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 z M 8.9999995,12 8.5996085,14.2 6.9003905,14.900391 5,13.599609 3.599609,15 4.900391,16.900391 4.2,18.599609 2,19 v 2 L 4.2,21.400391 4.900391,23.099609 3.599609,25 5,26.400391 6.9003905,25.099609 8.5996085,25.8 8.9999995,28 H 11 L 11.400391,25.8 13.099609,25.099609 15,26.400391 16.400391,25 15.099609,23.099609 15.8,21.400391 18,21 V 19 L 15.8,18.599609 15.099609,16.900391 16.400391,15 15,13.599609 13.099609,14.9 11.400391,14.2 11,12 Z m 1,5 C 11.656855,17 13,18.343146 13,20 c 0,1.656854 -1.343145,3 -3.0000005,3 -1.656854,0 -3,-1.343146 -3,-3 0,-1.656854 1.343146,-3 3,-3 z" />
+</svg>

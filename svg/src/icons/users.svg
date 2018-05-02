@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="users.svg">
+<defs id="defs">
+<pattern id="EMFhbasepattern" patternUnits="userSpaceOnUse" width="6" height="6" x="0" y="0" />
+<pattern id="EMFhbasepattern-2" patternUnits="userSpaceOnUse" width="6" height="6" x="0" y="0" />
+</defs>
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" inkscape:snap-global="false">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path d="m 12,4 c -1.666668,-9e-7 -5.000001,0.833334 -5,5 -1e-6,4.166667 0.298333,5.666666 1.7,6.7 0.833332,0.833334 0,1.6 0,1.6 0,0 -6.7,2.311667 -6.7,6.7 h 7 c 1.319457,-1.832882 3.234908,-3.090457 5,-3.8 C 12.837545,17.66089 12.999054,15.109287 13,13 13,9 14.244787,7.798585 16.5,6.5996094 15.505311,4.530891 13.268754,4.0000008 12,4 Z m 8,4 c -1.666668,-9e-7 -5.000001,0.833334 -5,5 -10e-7,4.166667 0.298333,5.666666 1.7,6.7 0.833332,0.833334 0,1.6 0,1.6 0,0 -6.7,2.311667 -6.7,6.7 h 20 c 0,-4.388333 -6.7,-6.7 -6.7,-6.7 0,0 -0.833334,-0.766666 0,-1.6 1.401667,-1.033334 1.699999,-2.533333 1.7,-6.7 -1e-6,-4.166666 -3.333334,-4.999999 -5,-5 z" id="p" inkscape:connector-curvature="0" />
+</svg>

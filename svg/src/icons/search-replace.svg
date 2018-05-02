@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="search-replace.svg">
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+</sodipodi:namedview>
+<path d="M 12,2 C 6.477153,2 2,6.477153 2,12 c 0,2.116979 0.6776556,4.083857 1.8,5.7 L 5.3,13.9 C 5.1313163,13.299256 5,12.655137 5,12 5,8.134007 8.134007,5 12,5 c 3.865993,0 7,3.134007 7,7 0,2.970811 -1.88865,5.483661 -4.5,6.5 l 1.1,2.8 C 16.442896,20.973144 17.268042,20.551952 18,20 l 9,10 3,-3 -10,-9 c 1.302405,-1.729494 1.99662,-3.83496 2,-6 C 22,6.477153 17.522847,2 12,2 Z M 7,16 2,30 h 4 l 0.5,-2 h 5 l 0.5,2 h 4 L 11,16 Z m 2,4 1.5,4 h -3 z" id="p" inkscape:connector-curvature="0" />
+</svg>

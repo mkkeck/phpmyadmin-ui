@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="php.svg">
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path d="M 16,6.9999999 C 8.2680134,6.9999999 1.9999999,11.029437 2,16 c 0,4.970563 6.2680135,9 14,9 7.731986,0 14,-4.029437 14,-9 C 30,11.029437 23.731987,6.9999999 16,6.9999999 Z M 15,10 h 2 l -0.5,2 h 1 c 1.656854,0 2.588073,1.336829 2.2,3 L 19,18 h -2 l 0.75,-3 C 17.888071,14.447715 17.552285,14 17,14 h -1 l -1,4 h -2 l 1.5,-6 z m -8,2 h 2.900391 c 1.656854,0 2.613822,1.343146 2.199609,3 -0.414213,1.656854 -2.042755,3 -3.699609,3 H 7.5 L 7,20 H 5 Z m 15,0 h 3 c 1.656854,0 2.614213,1.343146 2.2,3 -0.414214,1.656854 -2.043146,3 -3.7,3 h -1 L 22,20 H 20 Z M 8.5,14 8,16 H 8.900391 C 9.452675,16 9.961929,15.552285 10.1,15 10.238071,14.447715 9.952675,14 9.400391,14 Z m 15,0 -0.5,2 h 1 c 0.552285,0 1.061929,-0.447715 1.2,-1 0.138071,-0.552285 -0.147715,-1 -0.7,-1 z" id="p" inkscape:connector-curvature="0" />
+</svg>
