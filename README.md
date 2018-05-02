@@ -6,4 +6,4 @@ Source files for refactoring and enhancement [phpMyAdmin Issue#14237](https://gi
 
 All SVG-files are made by me with Incscape. The icons have an perfect pixel size of 16x16, the smaller ones of 10x10px.
 
-Please feel free to leave comments, criticism, improvements under [project issues](https://github.com/mkkeck/phpmyadmin-ui/issues)
+Feel free to leave comments under [project issues](https://github.com/mkkeck/phpmyadmin-ui/issues)
