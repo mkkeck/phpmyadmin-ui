@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="__src.svg">
+<metadata id="metadata8">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title></dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path inkscape:connector-curvature="0" id="p" d="M 16,2.0000002 C 8.2679999,2.0000002 2,8.2680002 2,16 2,23.732 8.2679999,30 16,30 23.732,30 30,23.732 30,16 30,8.2680002 23.732,2.0000002 16,2.0000002 Z m 0,6 C 18.85374,8.0050002 21.00237,9.48255 20.99998,12 20.99598,13.22956 20.05917,14.13682 19,15 c -1.0054,0.84323 -1.39765,1.53038 -1.50002,3 h -3 c 0.0203,-2.6145 1.0533,-3.41933 2.40002,-4.7 0.89494,-0.8846 0.78858,-1.74421 0.1,-2.3 -1.29318,-0.99312 -3.19108,-0.10922 -4.59963,0.5 L 11.6,9.1000002 c 1.38289,-0.8291 3.39156,-1.09847 4.4,-1.1 z M 16,20 c 1.104569,0 2,0.895431 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.104569 0.895431,-2 2,-2 z" />
+</svg>

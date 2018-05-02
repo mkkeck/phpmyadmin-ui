@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="__src.svg">
+<metadata id="metadata8">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title></dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path inkscape:connector-curvature="0" id="p" d="M 16,2.0000004 C 8.2679999,2.0000004 2,8.2680004 2,16 2,23.732 8.2679999,30 16,30 23.732,30 30,23.732 30,16 30,8.2680004 23.732,2.0000004 16,2.0000004 Z m 0,3 C 22.075,5.0000004 27,9.925 27,16 27,22.075 22.075,27 16,27 9.9249999,27 5,22.075 5,16 5,9.925 9.9249999,5.0000004 16,5.0000004 Z m 0,3 c -1.00844,0.00153 -3.11711,0.270904 -4.5,1.1 L 12.400391,11.5 C 13.808941,10.890778 15.70682,10.00688 17,11 c 0.68858,0.555791 0.79494,1.415406 -0.1,2.3 -1.34672,1.280674 -2.3797,2.085495 -2.4,4.7 h 3 c 0.10237,-1.46962 0.529756,-2.156775 1.535156,-3 C 20.094326,14.13682 20.996,13.22956 21,12 21.0024,9.4825504 18.85374,8.0055004 16,8.0000004 Z M 16,20 c -1.104569,0 -2,0.895431 -2,2 0,1.104569 0.895431,2 2,2 1.104569,0 2,-0.895431 2,-2 0,-1.104569 -0.895431,-2 -2,-2 z" />
+</svg>

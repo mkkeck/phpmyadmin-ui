@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="databases.svg">
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path inkscape:connector-curvature="0" id="p" d="m 11,1.9999995 c 3.247163,0.00197 6.208131,0.742133 7.8,2 -1.280259,0.073624 -2.50443,0.296138 -3.6,0.5996094 C 13.984397,4.2037524 12.526711,4.0007901 11,3.9999995 c -3.8659932,0 -7.0000002,1.3431458 -7.0000002,3 0.0028,1.4903749 2.558125,2.7870896 6,3 V 14 c -4.493756,-0.223682 -8,-1.94305 -8,-4.0000005 v -4 c 0,-2.209139 4.029437,-4 9.0000002,-4 z m 10,4 c 4.970563,0 9,1.790861 9,4 V 14 c 0,2.209139 -4.029437,4 -9,4 -4.970563,0 -9,-1.790861 -9,-4 V 9.9999995 c 0,-2.209139 4.029437,-4 9,-4 z m 0,2 c -3.865993,0 -7,1.3431458 -7,3.0000005 0,1.656854 3.134007,3 7,3 3.865993,0 7,-1.343146 7,-3 C 28,9.3431453 24.865993,7.9999995 21,7.9999995 Z M 1.9999998,12 c 0.0052,2.035422 3.448655,3.773843 8,4 v 4 c -4.493756,-0.223682 -8,-1.943049 -8,-4 z M 30,16 v 4 c 0,2.209139 -4.029437,4 -9,4 -4.970563,0 -9,-1.790861 -9,-4 v -4 c 0,2.209139 4.029437,4 9,4 4.970563,0 9,-1.790861 9,-4 z M 1.9999998,18 c 0.0052,2.035422 3.448655,3.773843 8,4 v 4 c -4.493756,-0.223682 -8,-1.943049 -8,-4 z M 30,22 v 4 c 0,2.209139 -4.029437,4 -9,4 -4.970563,0 -9,-1.790861 -9,-4 v -4 c 0,2.209139 4.029437,4 9,4 4.970563,0 9,-1.790861 9,-4 z" />
+</svg>

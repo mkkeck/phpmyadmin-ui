@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="table-view.svg">
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path d="M 9,6 C 7.343146,6 6.608291,7.3748279 6,9 l -3,7 c -0.8055325,1.047259 -0.9987285,2.678776 -1,4 0,3.313708 2.6862915,6 6,6 3.313708,0 6,-2.686292 6,-6 0,-1.104569 0.895431,-2 2,-2 1.104569,0 2,0.895431 2,2 0,3.313708 2.686292,6 6,6 3.313708,0 6,-2.686292 6,-6 -0.0023,-1.317425 -0.197897,-2.954895 -1,-4 L 26,9 C 25.391709,7.3748279 24.656854,6 23,6 h -2 v 2 h 2 c 0.552285,0 0.817094,0.5215901 1,1 l 2,5.400391 C 25.355796,14.168879 24.684537,14.00244 24,14 21.816757,14.000482 19.756087,15.18879 18.7,17.099609 17.957489,16.395425 17.023327,16.000646 16,16 14.97492,16.0023 14.041781,16.39211 13.3,17.099609 12.246298,15.186385 10.184194,14.002763 8,14 7.3154631,14.00244 6.6442042,14.168879 6,14.400391 L 8,9 C 8.182906,8.5215901 8.447715,8 9,8 h 2 V 6 Z M 8,16 c 2.209139,0 4,1.790861 4,4 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 z m 16,0 c 2.209139,0 4,1.790861 4,4 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 z" id="p" inkscape:connector-curvature="0" />
+</svg>

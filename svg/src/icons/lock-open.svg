@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="s_lock-open.svg">
+<defs id="defs" />
+<sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" inkscape:snap-nodes="true" inkscape:snap-global="true">
+<inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+<sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+<sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+</sodipodi:namedview>
+<path d="M 16 2 C 10.477153 2 6 6.4771525 6 12 L 6 16 L 4 16 L 4 30 L 28 30 L 28 16 L 26 16 L 22 16 L 18 16 L 10 16 L 10 12 C 10 8.6862915 12.686292 6 16 6 C 19.313708 6 22 8.6862915 22 12 L 26 12 C 26 6.4771525 21.522847 2 16 2 z M 16 22 A 2 2 0 0 1 18 24 A 2 2 0 0 1 16 26 A 2 2 0 0 1 14 24 A 2 2 0 0 1 16 22 z " id="p1" />
+</svg>

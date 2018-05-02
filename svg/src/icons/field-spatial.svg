@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="field-spatial.svg">
+ <defs id="defs" />
+ <sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10" inkscape:measure-start="0,0" inkscape:measure-end="0,0">
+  <inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+  <sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+  <sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+ </sodipodi:namedview>
+ <path d="M 12 2 L 12 30 L 14 30 L 14 2 L 12 2 z M 2 6 L 2 26 L 10 26 L 10 6 L 2 6 z M 24 6 C 20.686291 6 18 8.686292 18 12 C 18 17 22 21 24 26 C 26 21 30 17 30 12 C 30 8.686292 27.313708 6 24 6 z M 4 8 L 8 8 L 8 12 L 4 12 L 4 8 z M 24 9 C 25.656854 9 27 10.343146 27 12 C 27 13.656854 25.656854 15 24 15 C 22.343146 15 21 13.656854 21 12 C 21 10.343146 22.343146 9 24 9 z M 4 14 L 8 14 L 8 18 L 4 18 L 4 14 z M 4 20 L 8 20 L 8 24 L 4 24 L 4 20 z " id="p" />
+</svg>

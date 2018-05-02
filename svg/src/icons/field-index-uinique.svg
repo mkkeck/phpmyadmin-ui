@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="32" height="32" viewBox="0 0 32 32" version="1.1" id="svg" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="field-index-uinique.svg">
+ <defs id="defs" />
+ <sodipodi:namedview id="base" pagecolor="#fff" bordercolor="#666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:document-units="px" inkscape:current-layer="svg" showgrid="true" units="px" showguides="true" inkscape:guide-bbox="true" gridtolerance="10" inkscape:measure-start="0,0" inkscape:measure-end="0,0">
+  <inkscape:grid type="xygrid" id="grid10" originx="16" originy="16" />
+  <sodipodi:guide position="16,34" orientation="1,0" id="guide3714" inkscape:locked="false" />
+  <sodipodi:guide position="34,16" orientation="0,1" id="guide3716" inkscape:locked="false" />
+ </sodipodi:namedview>
+ <path d="m 12,2 v 28 h 2 V 2 Z M 2,6 v 20 h 8 V 6 Z m 2,2 h 4 v 4 H 4 Z m 14,0 v 11 c 0,2.761424 2.238576,5 5,5 1.082743,-0.0023 2.135498,-0.355912 3,-1.007812 V 24 h 4 V 8 h -4 v 10 c 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 V 8 Z M 4,14 h 4 v 4 H 4 Z m 0,6 h 4 v 4 H 4 Z" id="p" inkscape:connector-curvature="0" />
+</svg>
